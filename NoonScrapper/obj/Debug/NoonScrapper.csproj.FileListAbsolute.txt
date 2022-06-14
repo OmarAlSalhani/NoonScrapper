@@ -1,0 +1,11 @@
+C:\Users\Omar\source\repos\NoonScrapper\bin\Debug\NoonScrapper.exe.config
+C:\Users\Omar\source\repos\NoonScrapper\bin\Debug\NoonScrapper.exe
+C:\Users\Omar\source\repos\NoonScrapper\bin\Debug\NoonScrapper.pdb
+C:\Users\Omar\source\repos\NoonScrapper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Omar\source\repos\NoonScrapper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Omar\source\repos\NoonScrapper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Omar\source\repos\NoonScrapper\obj\Debug\NoonScrapper.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\NoonScrapper\obj\Debug\NoonScrapper.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\NoonScrapper\obj\Debug\NoonScrapper.csproj.CopyComplete
+C:\Users\Omar\source\repos\NoonScrapper\obj\Debug\NoonScrapper.exe
+C:\Users\Omar\source\repos\NoonScrapper\obj\Debug\NoonScrapper.pdb
